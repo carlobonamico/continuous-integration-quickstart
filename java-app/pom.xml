@@ -4,14 +4,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.apache.maven</groupId>
-  <artifactId>maven-archetype-simple</artifactId>
+  <groupId>com.dgsspa.example</groupId>
+  <artifactId>java-app</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>maven-archetype-simple</name>
   <description>A simple maven-archetype-simple.</description>
   <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>https://github.com/carlobonamico/continuous-integration-quickstart</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -71,11 +70,4 @@
     </pluginManagement>
   </build>
 
-  <reporting>
-    <plugins>
-      <plugin>
-        <artifactId>maven-project-info-reports-plugin</artifactId>
-      </plugin>
-    </plugins>
-  </reporting>
 </project>
