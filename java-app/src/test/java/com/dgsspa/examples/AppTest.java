@@ -40,4 +40,12 @@ public class AppTest
     {
         assertTrue( true );
     }
+    public void testFixed2()
+    {
+        assertTrue( true );
+    }
+    public void testFixed3()
+    {
+        assertTrue( true );
+    }
 }
