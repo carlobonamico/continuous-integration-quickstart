@@ -10,7 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
 
-        Service s = new Service(1);
+        Service s = new Service(1,2);
 
         s.doSomething();
     }
