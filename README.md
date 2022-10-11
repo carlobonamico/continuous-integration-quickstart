@@ -5,6 +5,10 @@ Examples with Jenkins as an _enabling tool_.
 
 Continuous Integration > Jenkins
 
+Code & Slides
+
+https://github.com/carlobonamico/continuous-integration-quickstart
+
 ----
 ## Requirements
 Java 11
