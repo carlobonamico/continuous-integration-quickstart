@@ -67,17 +67,3 @@ docker pull jenkins/jenkins:lts-jdk11
 
 https://hub.docker.com/r/jenkins/jenkins
 
-
-----
-## Setup
-
-mvn archetype:generate
-
-mvn archetype:generate -DgroupId=org.apache.maven -DartifactId=maven-archetype-simple -Dpackage=com.dgsspa.examples
-
-Confirm properties configuration:
-groupId: org.apache.maven
-artifactId: maven-archetype-simple
-version: 1.0-SNAPSHOT
-package: com.dgsspa.examples
-
